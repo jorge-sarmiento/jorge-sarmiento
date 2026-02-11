@@ -6,7 +6,7 @@
 💼 Model Risk Validation & Quantitative Analytics 
 🎓 PhD Research: Robust Optimization for Financial Time Series  
 📧 jorgesarmientol@gmail.com  
-🔗 [LinkedIn]([tu-link](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/))
+🔗 [[LinkedIn]([tu-link](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/))](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/)
 
 ## Research Interests
 - Regime-Switching Models & Asset Allocation
