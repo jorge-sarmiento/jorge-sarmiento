@@ -1,16 +1,26 @@
-## Hi there 👋
+# Jorge Sarmiento Laya
 
-<!--
-**jorge-sarmiento/jorge-sarmiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Candidate in Data Science | Quantitative Finance Learner**
 
-Here are some ideas to get you started:
+📍 UAE
+💼 Model Risk Validation & Quantitative Analytics 
+🎓 PhD Research: Robust Optimization for Financial Time Series  
+📧 jorgesarmientol@gmail.com  
+🔗 [LinkedIn]([tu-link](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Regime-Switching Models & Asset Allocation
+- Robust Portfolio Optimization (Median-based frameworks)
+- Macroeconomic Forecasting & Leading Indicators
+- Quantitative Risk Modeling (Credit, Market, Climate)
+
+## Technical Stack
+**Languages:** Python, R, SQL, SAS  
+**ML/Stats:** Scikit-learn, Statsmodels, Time-Series Analysis  
+**Finance:** Portfolio Optimization, Risk Modeling, Backtesting
+
+## Featured Projects
+*Coming soon - I'm trying to build a comprehensive quantitative finance portfolio*
+
+---
+> *"Creating bridges between the academic rigor with practical applications in quantitative finance"*
