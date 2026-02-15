@@ -20,6 +20,7 @@
 **Finance:** Portfolio Optimization, Risk Modeling, Backtesting
 
 ## Featured Projects
+*MENA Leading Indicator*
 *Coming soon - I'm trying to build a comprehensive quantitative finance portfolio*
 
 ---
