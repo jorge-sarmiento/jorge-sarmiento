@@ -4,7 +4,7 @@
 
 📍 UAE
 💼 Model Risk Validation & Quantitative Analytics 
-🎓 PhD Research: Robust Optimization for Financial Time Series  
+🎓 PhD Research: Robust Portfolio Optimization  
 📧 jorgesarmientol@gmail.com  
 🔗 [[LinkedIn]([tu-link](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/))](https://www.linkedin.com/in/jorge-sarmiento-laya-a7a239a1/)
 
